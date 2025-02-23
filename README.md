@@ -1,35 +1,64 @@
-### Hi there 👋, I'm Ayush!  
+# 👋 Hey there, I'm Ayush!  
 
-🚀 **DevOps Engineer at Travlr ID | Leading DevOps initiatives with system architecture expertise | Azure | CI/CD | IaC | Automation**  
+🚀 **DevOps Engineer | Cloud & Infrastructure Enthusiast | Automation Advocate**  
 
-🔹 Passionate about automating infrastructure, optimizing deployments, and improving system reliability.  
-🔹 Experienced in **Azure**, **Kubernetes (AKS)**, **CI/CD**, **Terraform**, and **Observability**.  
-🔹 Currently working at **TravlrID**, managing platform & infrastructure from the ground up.  
-🔹 Always learning and experimenting with new DevOps tools & best practices.  
+💡 **Leading DevOps at Travlr ID** — Architecting **scalable**, **secure**, and **highly available** cloud solutions.  
+⚙️ **Transforming infrastructure** with automation, CI/CD, and cloud-native technologies.  
+🌍 **Optimizing cloud deployments** for performance, security, and cost-effectiveness.  
 
-### 🛠️ Tech Stack & Skills  
-- **Cloud**: Azure ☁️ | AWS  
-- **Containerization & Orchestration**: Docker 🐳 | Kubernetes (AKS)  
-- **Infrastructure as Code**: Terraform | Bicep  
-- **CI/CD**: GitHub Actions | Azure DevOps | ArgoCD | Jenkins  
-- **Monitoring & Logging**: Prometheus | Grafana | ELK Stack  
-- **Scripting & Automation**: Bash | Python | PowerShell  
+---
 
-### 📌 Open Source Contributions  
-🛠 **Linux Foundation Networking (LFN) Intern @ Opendaylight (Jun 2023 - Nov 2023)**  
-- 🚀 **Successful Prototype Migration of CSIT 1 Node Jobs**  
-- ✅ Developed **efficient Dockerfiles** 🐳 for Jenkins environment VMs, enhancing image efficiency.  
-- ✅ Migrated **JJB jobs** 🔄 from VM-based Jenkins Job Builder (JJB) to container-based workflows using GitHub Actions.  
-- ✅ Improved **testing efficiency** ⚡ by reducing Continuous System Integration Testing (CSIT) time by **60-70%**.  
-- ✅ Maintained **CI/CD integrity** 🔧, ensuring scalability throughout the migration.  
+## 🛠️ Tech Stack & Skills  
+💻 **Cloud**: Azure ☁️ | AWS  
+📦 **Containers & Orchestration**: Docker 🐳 | Kubernetes (AKS)  
+🛠 **Infrastructure as Code**: Terraform | Bicep  
+🚀 **CI/CD & Automation**: GitHub Actions | Azure DevOps | ArgoCD | Jenkins  
+📊 **Monitoring & Logging**: Prometheus | Grafana | ELK Stack  
+📝 **Scripting & Automation**: Bash | Python | PowerShell  
 
-### 📌 Current Focus  
-- Scaling cloud-native architectures 🌍  
-- Improving DevOps processes for high availability 🔄  
+---
 
-### 📫 How to Reach Me  
-💼 LinkedIn: [Ayush Sadwal](https://www.linkedin.com/in/ayushishu)  
-📧 Personal Email: ayushayush.sadwal@gmail.com  
-🏢 Work Email: ayush@travlrid.com (For professional inquiries)  
+## 🌟 My Work & Contributions  
 
-⚡ **Fun Fact**: I enjoy troubleshooting complex infrastructure issues as much as I love coffee ☕😄.  
+Although my personal GitHub profile does not have many direct contributions, I actively work on **enterprise-level DevOps solutions** at **Travlr ID** and contribute to **open-source projects** like **Linux Foundation Networking (LFN)**.  
+
+### 🔹 **Professional Contributions at Travlr ID** _(Private Repos)_  
+✅ Architected & automated cloud infrastructure on **Azure** ☁️  
+✅ Designed & deployed **Kubernetes (AKS)** clusters for high availability  
+✅ Developed **CI/CD pipelines** with **GitHub Actions** 🚀  
+✅ Optimized **monitoring & logging** with **Prometheus, Grafana, & ELK Stack**  
+## 🏢 Work GitHub Repositories  
+
+[![Ayushishu13's Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushishu13&layout=compact&theme=radical)](https://github.com/Ayushishu13?tab=repositories)
+
+### 🔹 **Open Source: Linux Foundation Networking (LFN) Intern @ Opendaylight (Jun 2023 - Nov 2023)**  
+🎯 **Successful Prototype Migration of CSIT 1 Node Jobs**  
+✅ **Optimized Dockerfiles** 🐳 for Jenkins environments, improving image efficiency.  
+✅ **Automated Jenkins Job Builder (JJB) Jobs** 🔄, migrating VM-based workflows to **GitHub Actions**.  
+✅ **Enhanced CI/CD Efficiency** ⚡, reducing **CSIT runtime by 60-70%**.  
+✅ **Ensured system integrity** 🔧 while scaling CI/CD processes.  
+
+---
+
+## 🎯 What I'm Working On  
+
+🔥 **Scaling** cloud-native architectures for high availability & resilience.  
+
+⚡ **Enhancing** DevOps pipelines for speed and reliability.  
+
+🔍 **Exploring** the latest in observability & cloud automation.  
+
+---
+
+## 📫 Let's Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Sadwal-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayushishu)  
+✉️ **Personal Email**: ayushayush.sadwal@gmail.com  
+🏢 **Work Email**: ayush@travlrid.com _(For professional inquiries)_  
+
+---
+
+⚡ **Fun Fact**: I debug infrastructure issues faster than I make my coffee ☕😆!  
+
+---
+
+🚀 **"Automate everything, optimize continuously, and keep scaling!"**  

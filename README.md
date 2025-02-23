@@ -27,9 +27,12 @@ Although my personal GitHub profile does not have many direct contributions, I a
 ✅ Designed & deployed **Kubernetes (AKS)** clusters for high availability  
 ✅ Developed **CI/CD pipelines** with **GitHub Actions** 🚀  
 ✅ Optimized **monitoring & logging** with **Prometheus, Grafana, & ELK Stack**  
-## 🏢 Work GitHub Repositories  
 
-[![Ayushishu13's Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushishu13&layout=compact&theme=radical)](https://github.com/Ayushishu13?tab=repositories)
+#### 📈 Travlr ID GitHub Contributions  
+
+🔹 **Travlr ID GitHub Username**: [Ayushishu13](https://github.com/Ayushishu13)  
+
+![Work GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Ayushishu13&theme=radical)
 
 ### 🔹 **Open Source: Linux Foundation Networking (LFN) Intern @ Opendaylight (Jun 2023 - Nov 2023)**  
 🎯 **Successful Prototype Migration of CSIT 1 Node Jobs**  
@@ -51,7 +54,7 @@ Although my personal GitHub profile does not have many direct contributions, I a
 ---
 
 ## 📫 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Sadwal-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayushishu)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Sadwal-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayushishu13)  
 ✉️ **Personal Email**: ayushayush.sadwal@gmail.com  
 🏢 **Work Email**: ayush@travlrid.com _(For professional inquiries)_  
 

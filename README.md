@@ -54,7 +54,7 @@ Although my personal GitHub profile does not have many direct contributions, I a
 ---
 
 ## 📫 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Sadwal-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayushishu13)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Sadwal-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayushishu)  
 ✉️ **Personal Email**: ayushayush.sadwal@gmail.com  
 🏢 **Work Email**: ayush@travlrid.com _(For professional inquiries)_  
 
